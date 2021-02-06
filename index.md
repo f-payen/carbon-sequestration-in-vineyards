@@ -9,3 +9,5 @@ Please find the links to the maps for each combination of practices below:
 ---
 
 This research is part of the NERC-funded project Soils-R-GGREAT (Soils Research to deliver Greenhouse Gas Removals and Abatement Technologies).
+
+See my profile on [ResearchGate](https://www.researchgate.net/profile/Florian_Payen).

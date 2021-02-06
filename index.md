@@ -1,5 +1,4 @@
 Please find the links to the maps for each combination of practices below:
-- [cover crops (CC)](./CC.html)
 - [organic amendments (OA)](./OA.html)
 - [cover crops (CC)](./CC.html)
 - [organic amendments and no tillage (OA+NT)](./OA+NT.html)
